@@ -1,4 +1,4 @@
-This project was ReactJS,Material Ui, Firebase!
+This was a twitter-clone project the langauges that I've used are ReactJS,Material-UI,Firebase.
 
 ## Available Scripts
 
